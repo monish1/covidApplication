@@ -1,0 +1,7 @@
+2024/08/10-12:45:57.166 1aec Reusing MANIFEST C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_www.pw.live_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/10-12:45:57.167 1aec Recovering log #4
+2024/08/10-12:45:57.168 1aec Reusing old log C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_www.pw.live_0.indexeddb.leveldb/000004.log 
+2024/08/10-12:45:57.326 e2c Level-0 table #8: started
+2024/08/10-12:45:57.332 e2c Level-0 table #8: 3683 bytes OK
+2024/08/10-12:45:57.334 e2c Delete type=0 #4
+2024/08/10-12:45:57.335 1aec Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

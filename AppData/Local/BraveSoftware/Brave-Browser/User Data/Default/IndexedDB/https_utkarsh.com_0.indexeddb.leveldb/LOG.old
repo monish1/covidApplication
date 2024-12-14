@@ -1,0 +1,7 @@
+2024/07/12-16:28:08.901 1c64 Reusing MANIFEST C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_utkarsh.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/12-16:28:08.901 1c64 Recovering log #4
+2024/07/12-16:28:08.902 1c64 Reusing old log C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_utkarsh.com_0.indexeddb.leveldb/000004.log 
+2024/07/12-16:28:08.931 18f4 Level-0 table #8: started
+2024/07/12-16:28:08.935 18f4 Level-0 table #8: 3365 bytes OK
+2024/07/12-16:28:08.938 18f4 Delete type=0 #4
+2024/07/12-16:28:08.938 2ce8 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

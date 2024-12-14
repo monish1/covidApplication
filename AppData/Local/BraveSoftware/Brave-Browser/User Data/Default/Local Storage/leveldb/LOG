@@ -1,0 +1,6 @@
+2024/12/07-12:19:36.949 3748 Reusing MANIFEST C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/MANIFEST-000001
+2024/12/07-12:19:36.965 3748 Recovering log #1752
+2024/12/07-12:19:36.970 3748 Reusing old log C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/001752.log 
+2024/12/08-12:42:20.271 12e0 Level-0 table #1756: started
+2024/12/08-12:42:20.280 12e0 Level-0 table #1756: 30958 bytes OK
+2024/12/08-12:42:20.283 12e0 Delete type=0 #1752

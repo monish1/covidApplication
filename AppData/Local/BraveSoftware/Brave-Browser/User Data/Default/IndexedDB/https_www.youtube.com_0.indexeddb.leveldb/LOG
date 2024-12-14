@@ -1,0 +1,21 @@
+2024/12/08-12:39:57.582 1634 Reusing MANIFEST C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/08-12:39:57.583 1634 Recovering log #152
+2024/12/08-12:39:57.583 1634 Reusing old log C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000152.log 
+2024/12/08-12:45:08.036 1ffc Level-0 table #157: started
+2024/12/08-12:45:08.142 1ffc Level-0 table #157: 1264881 bytes OK
+2024/12/08-12:45:08.145 1ffc Delete type=0 #152
+2024/12/08-12:45:30.273 1634 Compacting 1@1 + 1@2 files
+2024/12/08-12:45:30.286 1634 Generated table #158@1: 337 keys, 66221 bytes
+2024/12/08-12:45:30.287 1634 Compacted 1@1 + 1@2 files => 66221 bytes
+2024/12/08-12:45:30.288 1634 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/08-12:45:30.289 1634 Delete type=2 #154
+2024/12/08-12:45:30.289 1634 Delete type=2 #157
+2024/12/08-12:59:48.556 1ffc Level-0 table #160: started
+2024/12/08-12:59:48.589 1ffc Level-0 table #160: 1033059 bytes OK
+2024/12/08-12:59:48.592 1ffc Delete type=0 #156
+2024/12/08-13:45:57.662 3370 Compacting 1@1 + 1@2 files
+2024/12/08-13:45:57.677 3370 Generated table #161@1: 353 keys, 73169 bytes
+2024/12/08-13:45:57.677 3370 Compacted 1@1 + 1@2 files => 73169 bytes
+2024/12/08-13:45:57.679 3370 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/08-13:45:57.679 3370 Delete type=2 #158
+2024/12/08-13:45:57.679 3370 Delete type=2 #160

@@ -1,0 +1,6 @@
+2024/07/12-16:41:39.414 2ce8 Creating DB C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_cracku.in_0.indexeddb.leveldb since it was missing.
+2024/07/12-16:41:39.427 2ce8 Reusing MANIFEST C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_cracku.in_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/12-16:42:05.905 1c64 Level-0 table #5: started
+2024/07/12-16:42:05.910 1c64 Level-0 table #5: 4984 bytes OK
+2024/07/12-16:42:05.915 1c64 Delete type=0 #3
+2024/07/12-16:42:05.916 1c64 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

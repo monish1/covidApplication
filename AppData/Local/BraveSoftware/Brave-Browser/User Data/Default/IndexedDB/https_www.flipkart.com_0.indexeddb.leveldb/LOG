@@ -1,0 +1,6 @@
+2024/10/24-14:07:54.230 2134 Creating DB C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_www.flipkart.com_0.indexeddb.leveldb since it was missing.
+2024/10/24-14:07:54.237 2134 Reusing MANIFEST C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_www.flipkart.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/24-14:25:30.354 b50 Level-0 table #5: started
+2024/10/24-14:25:30.362 b50 Level-0 table #5: 2368 bytes OK
+2024/10/24-14:25:30.383 b50 Delete type=0 #3
+2024/10/24-14:25:30.384 b50 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

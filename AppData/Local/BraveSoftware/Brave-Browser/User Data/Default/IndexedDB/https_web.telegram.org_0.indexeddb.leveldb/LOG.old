@@ -1,0 +1,15 @@
+2024/11/30-10:16:56.508 7e0 Reusing MANIFEST C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/30-10:16:56.510 7e0 Recovering log #14
+2024/11/30-10:16:56.511 7e0 Reusing old log C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_web.telegram.org_0.indexeddb.leveldb/000014.log 
+2024/12/01-12:06:41.812 2ce8 Level-0 table #19: started
+2024/12/01-12:06:41.869 2ce8 Level-0 table #19: 713620 bytes OK
+2024/12/01-12:06:41.872 2ce8 Delete type=0 #14
+2024/12/01-12:06:41.872 2ce8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/12/01-12:06:41.873 2ce8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x0f\x00t\x00t\x00-\x00g\x00l\x00o\x00b\x00a\x00l\x00-\x00s\x00t\x00a\x00t\x00e' @ 199591 : 0
+2024/12/01-12:06:41.873 2ce8 Compacting 1@1 + 1@2 files
+2024/12/01-12:06:41.909 2ce8 Generated table #20@1: 39 keys, 31902 bytes
+2024/12/01-12:06:41.909 2ce8 Compacted 1@1 + 1@2 files => 31902 bytes
+2024/12/01-12:06:41.910 2ce8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/01-12:06:41.911 2ce8 Delete type=2 #16
+2024/12/01-12:06:41.911 2ce8 Delete type=2 #19
+2024/12/01-12:06:41.912 2ce8 Manual compaction at level-1 from '\x00\x01\x01\x03\x01\x0f\x00t\x00t\x00-\x00g\x00l\x00o\x00b\x00a\x00l\x00-\x00s\x00t\x00a\x00t\x00e' @ 199591 : 0 .. (end); will stop at (end)

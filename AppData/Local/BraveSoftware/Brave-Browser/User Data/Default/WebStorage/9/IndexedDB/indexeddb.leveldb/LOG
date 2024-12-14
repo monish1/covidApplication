@@ -1,0 +1,6 @@
+2024/06/18-21:47:41.519 1fcc Creating DB C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\WebStorage\9\IndexedDB\indexeddb.leveldb since it was missing.
+2024/06/18-21:47:41.532 1fcc Reusing MANIFEST C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\WebStorage\9\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2024/06/18-23:53:03.527 14a0 Level-0 table #5: started
+2024/06/18-23:53:03.535 14a0 Level-0 table #5: 9937 bytes OK
+2024/06/18-23:53:03.537 14a0 Delete type=0 #3
+2024/06/18-23:53:03.537 14a0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

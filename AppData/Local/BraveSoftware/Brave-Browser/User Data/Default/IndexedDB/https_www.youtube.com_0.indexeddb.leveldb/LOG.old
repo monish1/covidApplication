@@ -1,0 +1,24 @@
+2024/12/07-12:23:49.159 1634 Reusing MANIFEST C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/07-12:23:49.167 1634 Recovering log #145
+2024/12/07-12:23:49.455 1634 Reusing old log C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000145.log 
+2024/12/07-12:35:13.739 1634 Level-0 table #150: started
+2024/12/07-12:35:13.765 1634 Level-0 table #150: 1448180 bytes OK
+2024/12/07-12:35:13.769 1634 Delete type=0 #145
+2024/12/07-13:14:04.796 1ffc Compacting 1@1 + 1@2 files
+2024/12/07-13:14:04.835 1ffc Generated table #151@1: 347 keys, 59488 bytes
+2024/12/07-13:14:04.836 1ffc Compacted 1@1 + 1@2 files => 59488 bytes
+2024/12/07-13:14:04.837 1ffc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/07-13:14:04.838 1ffc Delete type=2 #147
+2024/12/07-13:14:04.838 1ffc Delete type=2 #150
+2024/12/08-12:39:56.622 1ffc Level-0 table #153: started
+2024/12/08-12:39:56.630 1ffc Level-0 table #153: 190900 bytes OK
+2024/12/08-12:39:56.631 1ffc Delete type=0 #149
+2024/12/08-12:39:56.632 1ffc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/12/08-12:39:56.632 1ffc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0a\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 242986 : 1
+2024/12/08-12:39:56.632 1ffc Compacting 1@1 + 1@2 files
+2024/12/08-12:39:56.639 1ffc Generated table #154@1: 318 keys, 71881 bytes
+2024/12/08-12:39:56.639 1ffc Compacted 1@1 + 1@2 files => 71881 bytes
+2024/12/08-12:39:56.640 1ffc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/08-12:39:56.640 1ffc Delete type=2 #151
+2024/12/08-12:39:56.641 1ffc Delete type=2 #153
+2024/12/08-12:39:56.641 1ffc Manual compaction at level-1 from '\x00\x0a\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 242986 : 1 .. (end); will stop at (end)

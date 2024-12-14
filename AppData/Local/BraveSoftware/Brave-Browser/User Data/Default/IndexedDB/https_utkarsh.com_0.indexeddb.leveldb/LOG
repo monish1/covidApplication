@@ -1,0 +1,13 @@
+2024/08/10-12:42:19.774 e2c Reusing MANIFEST C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_utkarsh.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/10-12:42:19.775 e2c Recovering log #7
+2024/08/10-12:42:19.776 e2c Reusing old log C:\Users\Mayank\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\IndexedDB\https_utkarsh.com_0.indexeddb.leveldb/000007.log 
+2024/08/10-12:42:19.839 e2c Level-0 table #11: started
+2024/08/10-12:42:19.841 e2c Level-0 table #11: 2980 bytes OK
+2024/08/10-12:42:19.844 e2c Delete type=0 #7
+2024/08/10-12:42:19.845 1aec Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 209 : 1
+2024/08/10-12:42:19.846 1aec Compacting 1@0 + 1@1 files
+2024/08/10-12:42:19.850 1aec Generated table #12@0: 79 keys, 2189 bytes
+2024/08/10-12:42:19.850 1aec Compacted 1@0 + 1@1 files => 2189 bytes
+2024/08/10-12:42:19.851 1aec compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/10-12:42:19.852 1aec Delete type=2 #11
+2024/08/10-12:42:19.852 1aec Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 209 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
